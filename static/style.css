@@ -1,0 +1,5 @@
+body { background: #f8fafc; }
+.card { border-radius: 1rem; }
+.btn-primary { background: linear-gradient(90deg, #007bff 0%, #00c6ff 100%); border: none; }
+.btn-primary:hover { background: linear-gradient(90deg, #0056b3 0%, #007bff 100%); }
+h2 { font-weight: 700; letter-spacing: 1px; } 
